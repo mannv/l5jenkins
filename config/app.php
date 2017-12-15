@@ -1,7 +1,7 @@
 <?php
 
 return [
-
+    'assets_version' => env('ASSETS_VERSION', time()),
     /*
     |--------------------------------------------------------------------------
     | Application Name
