@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel ENV: {{config('app.env')}}
+                    Laravel ENV: {{config('app.env')}} - MAN
                 </div>
 
                 <div class="links">
