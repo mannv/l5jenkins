@@ -81,6 +81,9 @@
                 <div class="title m-b-md">
                     Laravel ENV: {{config('app.env')}} - MAN 2
                 </div>
+                <div class="title m-b-md">
+                    assets version: <span style="color: red;">{{config('app.assets_version')}}</span>
+                </div>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
